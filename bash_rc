@@ -1,0 +1,2 @@
+
+PS1='tty:[\e[1;36m\l\e[0m] jobs:[\e[1;36m\j\e[0m] cwd:[\e[1;36m\w\e[0m]\n`date +%H:%M` [\u@`hostname`]$ '
